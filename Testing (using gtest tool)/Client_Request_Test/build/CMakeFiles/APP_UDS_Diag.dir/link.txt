@@ -1,0 +1,2 @@
+"D:\Courses\ES\MinGW 64\mingw64\bin\ar.exe" qc libAPP_UDS_Diag.a CMakeFiles/APP_UDS_Diag.dir/APP_UDS_Diag.c.obj
+"D:\Courses\ES\MinGW 64\mingw64\bin\ranlib.exe" libAPP_UDS_Diag.a

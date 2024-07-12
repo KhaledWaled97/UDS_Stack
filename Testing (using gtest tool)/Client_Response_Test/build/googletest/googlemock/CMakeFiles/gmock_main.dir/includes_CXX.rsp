@@ -1,0 +1,1 @@
+-isystem "E:/NTI/Brightskies_Internship/Task 4/Client_test/googletest/googlemock/include" -isystem "E:/NTI/Brightskies_Internship/Task 4/Client_test/googletest/googlemock" -isystem "E:/NTI/Brightskies_Internship/Task 4/Client_test/googletest/googletest/include" -isystem "E:/NTI/Brightskies_Internship/Task 4/Client_test/googletest/googletest"
